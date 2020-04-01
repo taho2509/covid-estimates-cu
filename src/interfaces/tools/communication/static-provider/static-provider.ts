@@ -3,12 +3,12 @@ import Historic from '../../../../domain/entities/historic'
 
 const data: Historic = {
   latest: {
-    total: 186,
-    day: 20,
-    date: new Date(2020, 3, 30),
+    total: 212,
+    day: 21,
+    date: new Date(2020, 3, 31),
     data: {
-      a: 1.7982,
-      b: 0.2413,
+      a: 1.8499,
+      b: 0.2374,
     },
   },
   history: [
@@ -190,6 +190,15 @@ const data: Historic = {
       data: {
         a: 1.7982,
         b: 0.2413,
+      },
+    },
+    {
+      total: 212,
+      day: 21,
+      date: new Date(2020, 3, 31),
+      data: {
+        a: 1.8499,
+        b: 0.2374,
       },
     },
   ],
