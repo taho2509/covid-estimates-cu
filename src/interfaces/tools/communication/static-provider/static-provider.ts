@@ -7,8 +7,10 @@ const data: Historic = {
     day: 32,
     date: new Date(2020, 4, 11),
     data: {
-      a: 2.9063,
-      b: 0.1886,
+      a: 0.0167,
+      b: 0.1536,
+      c: -1.1676,
+      d: 3.9312,
     },
   },
   history: [
@@ -19,6 +21,8 @@ const data: Historic = {
       data: {
         a: 0,
         b: 0,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -28,6 +32,8 @@ const data: Historic = {
       data: {
         a: 2.25,
         b: 0.287682,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -37,6 +43,8 @@ const data: Historic = {
       data: {
         a: 2.80975,
         b: 0.130401,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -46,6 +54,8 @@ const data: Historic = {
       data: {
         a: 3.0911,
         b: 0.0759301,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -55,6 +65,8 @@ const data: Historic = {
       data: {
         a: 3.26297,
         b: 0.0499991,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -64,6 +76,8 @@ const data: Historic = {
       data: {
         a: 3.09156,
         b: 0.0714827,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -73,6 +87,8 @@ const data: Historic = {
       data: {
         a: 2.262246,
         b: 0.122952,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -82,6 +98,8 @@ const data: Historic = {
       data: {
         a: 1.81606,
         b: 0.20778,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -91,6 +109,8 @@ const data: Historic = {
       data: {
         a: 1.20951,
         b: 0.278352,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -100,6 +120,8 @@ const data: Historic = {
       data: {
         a: 0.735568,
         b: 0.347634,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -109,6 +131,8 @@ const data: Historic = {
       data: {
         a: 0.637863,
         b: 0.363698,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -118,6 +142,8 @@ const data: Historic = {
       data: {
         a: 0.99627,
         b: 0.313185,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -127,6 +153,8 @@ const data: Historic = {
       data: {
         a: 1.39954,
         b: 0.277079,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -136,6 +164,8 @@ const data: Historic = {
       data: {
         a: 1.88511,
         b: 0.24802,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -145,6 +175,8 @@ const data: Historic = {
       data: {
         a: 2.5007,
         b: 0.22296,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -154,6 +186,8 @@ const data: Historic = {
       data: {
         a: 1.7365,
         b: 0.2464,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -163,6 +197,8 @@ const data: Historic = {
       data: {
         a: 1.7285,
         b: 0.2471,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -172,6 +208,8 @@ const data: Historic = {
       data: {
         a: 1.7402,
         b: 0.2461,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -181,6 +219,8 @@ const data: Historic = {
       data: {
         a: 1.7574,
         b: 0.2446,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -190,6 +230,8 @@ const data: Historic = {
       data: {
         a: 1.7982,
         b: 0.2413,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -199,6 +241,8 @@ const data: Historic = {
       data: {
         a: 1.7982,
         b: 0.2413,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -208,6 +252,8 @@ const data: Historic = {
       data: {
         a: 1.9163,
         b: 0.2328,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -217,6 +263,8 @@ const data: Historic = {
       data: {
         a: 1.986,
         b: 0.2284,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -226,6 +274,8 @@ const data: Historic = {
       data: {
         a: 2.0712,
         b: 0.2233,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -235,6 +285,8 @@ const data: Historic = {
       data: {
         a: 2.1631,
         b: 0.2183,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -244,6 +296,8 @@ const data: Historic = {
       data: {
         a: 2.2636,
         b: 0.2133,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -253,6 +307,8 @@ const data: Historic = {
       data: {
         a: 2.3654,
         b: 0.2086,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -262,6 +318,8 @@ const data: Historic = {
       data: {
         a: 2.4647,
         b: 0.2043,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -271,6 +329,8 @@ const data: Historic = {
       data: {
         a: 2.5658,
         b: 0.2003,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -280,6 +340,8 @@ const data: Historic = {
       data: {
         a: 2.6733,
         b: 0.1963,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -289,6 +351,8 @@ const data: Historic = {
       data: {
         a: 2.7859,
         b: 0.1924,
+        c: 0,
+        d: 0,
       },
     },
     {
@@ -296,8 +360,10 @@ const data: Historic = {
       day: 32,
       date: new Date(2020, 4, 11),
       data: {
-        a: 2.9063,
-        b: 0.1886,
+        a: 0.0167,
+        b: 0.1536,
+        c: -1.1676,
+        d: 3.9312,
       },
     },
   ],
