@@ -1,3 +1,3 @@
 export default interface Request {
-  body: {}
+  body: object
 }
