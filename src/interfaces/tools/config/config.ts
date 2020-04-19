@@ -1,4 +1,4 @@
-const envKeys: string[] = ['PORT', 'NODE_ENV', 'LOG_LEVEL', 'MONGO_URI']
+const envKeys: string[] = ['PORT', 'NODE_ENV', 'LOG_LEVEL', 'MONGO_URI', 'JWT_TOKEN']
 
 interface Configurations {
   get: (key: string) => string
